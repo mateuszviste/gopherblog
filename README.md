@@ -5,6 +5,8 @@ Gopherblog is a simple blog engine for Gopher. It is a CGI application that
 is meant to cooperate with a compliant gopher server (like Motsognir).
 It is written in ANSI C89 for maximum portability.
 
+Project homepage: https://github.com/mateuszviste/gopherblog
+
 
 ## How to install
 

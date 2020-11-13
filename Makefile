@@ -1,5 +1,6 @@
 #
-#
+# Gopherblog - a simple blog engine for gopher
+# Copyright (C) 2020 Mateusz Viste
 #
 
 CFLAGS = -Wall -std=gnu89 -Wextra -O2
