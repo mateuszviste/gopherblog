@@ -44,15 +44,15 @@ your attachments there.
 
 Here is an example of how the directory containing your blog could look like:
 
-blog/
-  |
-  +-- 2014-07-29-my-first-post/
-  |     |
-  |     +-- WelcomePhoto.jpg
-  |
-  +-- 2014-07-29-my-first-post.txt
-  +-- main
-  +-- gophermap.cgi
+    blog/
+      |
+      +-- 2014-07-29-my-first-post/
+      |     |
+      |     +-- WelcomePhoto.jpg
+      |
+      +-- 2014-07-29-my-first-post.txt
+      +-- main
+      +-- gophermap.cgi
 
 
 ## Licensing
